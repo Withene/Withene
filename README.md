@@ -3,7 +3,7 @@
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-<img src="https://www.shareicon.net/data/512x512/2015/09/11/99371_javascript_512x512.png">
+<img src="https://www.shareicon.net/data/512x512/2015/09/11/99371_javascript_512x512.png" width="64" height="64">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.

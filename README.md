@@ -3,7 +3,7 @@
 </h1>
 <p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
 
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://avatars.githubusercontent.com/u/82597491?s=400&u=1a49fd8cb4d178c44beb75d4c098941ce71c1419&v=4">
 
 ### Hi 👋
 I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.

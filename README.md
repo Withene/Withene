@@ -16,5 +16,5 @@
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/Withene/) [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/USERNAME)
 
 
-<br>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Withene)](https://github.com/anuraghazra/github-readme-stats)
+
 <blockquote> aaaaaaaaaaaaaa<blockquote>

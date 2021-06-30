@@ -9,7 +9,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Withene&show_icons=true) 
 
-<img src="https://www.shareicon.net/data/512x512/2015/09/11/99371_javascript_512x512.png" width="64" height="64"><img src="https://d585tldpucybw.cloudfront.net/sfimages/default-source/default-album/react-logo-10.png?sfvrsn=a7f421a4_1" width="64" height="50">
+<img src="https://www.shareicon.net/data/512x512/2015/09/11/99371_javascript_512x512.png" width="64" height="64"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/640px-React-icon.svg.png" width="64" height="50">
 
 
 

@@ -1,7 +1,6 @@
 <h1 align="center">
    👀 Bem vindo
-</h1>
-<p align="center">🚀Um estudante a procura da seu primeiro emprego.</p>
+</h1><blockquote><p align="center">🚀Um estudante a procura da seu primeiro emprego.</p><blockquote>
 
 
 
@@ -17,4 +16,4 @@
 
 
 
-<blockquote> aaaaaaaaaaaaaa<blockquote>
+

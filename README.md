@@ -1,15 +1,12 @@
 <h1 align="center">
    👀 Bem vindo
 </h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">🚀Um estudante a procura da seu primeiro emprego.</p>
 
 
 
-### Hi 👋
-I am recent engineering graduate looking for opportunities and collabaration in projects related to data science and deep learning.
-- 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
-- 🌱 I’m currently learning Computer Vision and Deep Learning techniques using PyTorch.
-- 🤝 I’m looking to collaborate on data science and deep learning projects. 
+### Olá 👋
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Withene&show_icons=true) 
 

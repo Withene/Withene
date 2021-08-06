@@ -15,7 +15,8 @@
  
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Withene&show_icons=true) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withene&show_icons=true&theme=radical)
+
 
 ## Meus Conhecimentos "Em estudo"
 

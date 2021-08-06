@@ -6,7 +6,7 @@
 
 ### Olá 👋
 - Esteja avontade. 
-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/withene-costa/)]( https://www.linkedin.com/in/withene-costa/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/withene-costa/)]( https://www.linkedin.com/in/withene-costa/)
 
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withene&show_icons=true&theme=dark)

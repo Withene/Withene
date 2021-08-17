@@ -5,9 +5,9 @@
 
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withene&show_icons=true&theme=darcula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withene&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Withene&theme=dark-smoky)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withene&layout=compact&theme=darcula)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Withene&theme=radical)](https://git.io/streak-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withene&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 

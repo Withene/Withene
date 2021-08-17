@@ -12,7 +12,7 @@
 
 
 <h1 align="center">
-   My knowledge�🚀
+   My knowledge🚀
 </h1>
 
 

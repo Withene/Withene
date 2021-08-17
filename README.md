@@ -1,6 +1,4 @@
-<h1 align="center">
-   👀 Welcome!
-</h1><blockquote><p align="center">🚀A student looking for my first job.</p></blockquote>
+
 
 
 

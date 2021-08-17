@@ -11,7 +11,7 @@
 <hr>
 
 
-<h1 align="center">
+<h1>
    My knowledge 💻
 </h1>
 
@@ -23,7 +23,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withene&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h1 align="center">
+<h1>
   Databases 💾
 </h1>
 

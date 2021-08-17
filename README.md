@@ -7,8 +7,7 @@
  
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=withene&count_private=true&show_icons=true&theme=dracula" alt="Withene" width="420"/> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=withene&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=withene&count_private=true&show_icons=true&theme=radical" alt="Withene" width="420"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=withene&theme=radical&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
 <hr>
 
 

@@ -3,7 +3,18 @@
 <h1 align="center">
    👀 Welcome!
 </h1><p align="center">🚀A student looking for my first job.</p>
-
+<h3> Full Stack Developer</h3>
+<hr>
+<h2 style="margin: 0 auto;">👨🏻‍🔧About me </h2>
+<p style="margin: 0 auto;">- 🧑🏻18 years old</p>
+<p style="margin: 0 auto;">- 🏠I live in Belém-PA</p>
+<p style="margin: 0 auto;">- 🖤I love the world of technology</p>
+<p style="margin: 0 auto;">- 👨🏻‍🎓I am studying Systems Development at the Federal Institute of Education, Science and Technology of Pará (IFPA)👨🏻‍🎓</p>
+<h2 style="margin: 0 auto;">My skills</h2>
+<h3>👨🏻‍💻 I have experience with a lot of technologies (it took me a while to find myself in the area) 👨🏻‍💻</h3>
+    <h2>Frameworks and libraries</h2>
+     <p align="left">
+      <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
  
 
 

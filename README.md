@@ -7,9 +7,8 @@
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withene&show_icons=true&theme=radical)[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Withene&theme=radical)](https://git.io/streak-stats)
 
-
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withene&layout=compact&theme=radical)]
+## My main focus👋
+ <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
    
 
 

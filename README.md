@@ -5,9 +5,10 @@
 </h1><p align="center">🚀A student looking for my first job.</p>
 
  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withene&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Withene&theme=radical)](https://git.io/streak-stats)
 
+
+<img src="https://github-readme-stats.vercel.app/api?username=withene&count_private=true&show_icons=true&theme=dracula" alt="Withene" width="420"/> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=withene&theme=dracula&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
 <hr>
 
 
@@ -22,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withene&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-
+<hr>
 <h1>
   Databases 💾
 </h1>

@@ -23,7 +23,7 @@
 
 
 <h1>
-  Some more technologies i know 💻
+  Some more 💻
 </h1>
 
 

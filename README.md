@@ -5,9 +5,9 @@
 </h1><p align="center">🚀A student looking for my first job.</p>
 
  
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Withene&theme=radical)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=withene&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Withene&theme=radical)](https://git.io/streak-stats)
+
 <hr>
 
 

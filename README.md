@@ -19,6 +19,8 @@
 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/withene-costa/)]( https://www.linkedin.com/in/withene-costa/)
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=withene&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 

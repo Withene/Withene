@@ -6,7 +6,7 @@
 <h3> Full Stack Developer</h3>
 <hr>
 <h2 style="margin: 0 auto;">👨🏻‍🔧About me </h2>
-<p style="margin: 0 auto;">- 🧑🏻18 years old</p>
+<p style="margin: 0 auto;">- 🧑🏻20 years old</p>
 <p style="margin: 0 auto;">- 🏠I live in Brasília-DF</p>
 <p style="margin: 0 auto;">- 🖤I love the world of technology</p>
 <p style="margin: 0 auto;">- 👨🏻‍🎓I am studying Analysis and systems development on IESB</p>

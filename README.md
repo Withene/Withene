@@ -2,7 +2,7 @@
 
 <h1 align="center">
    👀 Welcome!
-</h1><p align="center">🚀A student looking for my first job.</p>
+</h1>
 <h3> Full Stack Developer</h3>
 <hr>
 <h2 style="margin: 0 auto;">👨🏻‍🔧About me </h2>

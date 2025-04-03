@@ -1,45 +1,71 @@
-
-
 <h1 align="center">
-   👀 Welcome!
-</h1>
-<h3> Full Stack Developer</h3>
-<hr>
-<h2 style="margin: 0 auto;">👨🏻‍🔧About me </h2>
-<p style="margin: 0 auto;">- 🧑🏻21 years old</p>
-<p style="margin: 0 auto;">- 🏠I live in Brasília-DF</p>
-<p style="margin: 0 auto;">- 🖤I love the world of technology</p>
-<p style="margin: 0 auto;">- 👨🏻‍🎓I am studying Analysis and systems development on IESB</p>
-<h2 style="margin: 0 auto;">My skills</h2>
-<h3>👨🏻‍💻 I have experience with a lot of technologies (it took me a while to find myself in the area) 👨🏻‍💻</h3>
-    <h2>My Focus</h2>
-     <p align="left">
-      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
- 
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=withene&count_private=true&show_icons=true&theme=radical" alt="Withene" width="420"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=withene&theme=radical&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
-<hr>
-
-
-<h1>
-  Some more 💻
+   👋 Hey, I'm Withene Costa!
 </h1>
 
+<h3 align="center">Full Stack Developer | Node.js | React | TypeScript</h3>
 
- <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-blue?&style=for-the-badge&logo=css3&logoColor=white"/>  
+---
 
-<hr>
-<h1>
-  Databases 💾
-</h1>
+## 🚀 About Me  
+- 🏠 Based in Brasília-DF  
+- 🎓 Studying **Analysis and Systems Development** at IESB  
+- 🔥 Passionate about technology, problem-solving, and building efficient systems  
+- 💡 Focused on **API optimization**, **microservices**, and **scalable solutions**  
+- 👀 Currently seeking opportunities as a **JavaScript Developer / Backend Developer / React Native Developer**  
 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+---
 
-<hr>
+## 🔧 Tech Stack  
 
+### **🌍 Frontend**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/React Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</p>
 
+### **⚙️ Backend**
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+</p>
 
-## Links
+### **💾 Databases**
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+</p>
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white=https://www.linkedin.com/in/withene-costa/)]( https://www.linkedin.com/in/withene-costa/)
+### **📦 DevOps & Tools**
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=withene&count_private=true&show_icons=true&theme=radical" width="420"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=withene&theme=radical&count_private=true&show_icons=true&title_color=6e40c9&icon_color=6e40c9&line_height=10" height ="165"/>
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/withene-costa" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:withene@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+🚀 **Always learning and improving. Let's build something amazing together!**  
